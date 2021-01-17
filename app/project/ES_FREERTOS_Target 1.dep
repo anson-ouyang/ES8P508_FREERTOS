@@ -1,0 +1,2 @@
+Dependencies for Project 'ES_FREERTOS', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_ES8P508x.s)(0x5A2A62E3)(--cpu Cortex-M0 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\HR --list "startup_ES8P508x.lst" --xref -o "startup_ES8P508x.o" --depend "startup_ES8P508x.d")

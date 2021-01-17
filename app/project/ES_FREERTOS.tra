@@ -1,0 +1,48 @@
+*** Creating Trace Output File 'ES_FREERTOS.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"lib_adc.o"'
+### List of Objects: adding '"lib_aes.o"'
+### List of Objects: adding '"lib_crc.o"'
+### List of Objects: adding '"lib_flashiap.o"'
+### List of Objects: adding '"lib_gpio.o"'
+### List of Objects: adding '"lib_iap.o"'
+### List of Objects: adding '"lib_iic.o"'
+### List of Objects: adding '"lib_printf.o"'
+### List of Objects: adding '"lib_rtc.o"'
+### List of Objects: adding '"lib_scs.o"'
+### List of Objects: adding '"lib_scu.o"'
+### List of Objects: adding '"lib_spi.o"'
+### List of Objects: adding '"lib_timer.o"'
+### List of Objects: adding '"lib_uart.o"'
+### List of Objects: adding '"lib_wdt.o"'
+### List of Objects: adding '"croutine.o"'
+### List of Objects: adding '"event_groups.o"'
+### List of Objects: adding '"list.o"'
+### List of Objects: adding '"queue.o"'
+### List of Objects: adding '"stream_buffer.o"'
+### List of Objects: adding '"tasks.o"'
+### List of Objects: adding '"timers.o"'
+### List of Objects: adding '"heap_4.o"'
+### List of Objects: adding '"port.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '".\startup_es8p508x.o"'
+### List of Objects: adding '"pa_freertos.o"'
+### List of Objects: adding '"system_es8p508x.o"'
+### List of Objects: adding '"irqhandler.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 "lib_adc.o" "lib_aes.o" "lib_crc.o" "lib_flashiap.o" "lib_gpio.o" "lib_iap.o" "lib_iic.o" "lib_printf.o" "lib_rtc.o" "lib_scs.o" "lib_scu.o" "lib_spi.o" "lib_timer.o" "lib_uart.o" "lib_wdt.o" "croutine.o" "event_groups.o" "list.o" "queue.o" "stream_buffer.o" "tasks.o" "timers.o" "heap_4.o" "port.o" "main.o" ".\startup_es8p508x.o" "pa_freertos.o" "system_es8p508x.o" "irqhandler.o" 
+--strict --scatter "ES_FREERTOS.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\ES_FREERTOS.map" -o ES_FREERTOS.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'ES_FREERTOS.axf'
+### ADS-LD Command File: 'ES_FREERTOS.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'ES_FREERTOS.lnp', Handle=0x00001884
+### Writing '.lnp' file
+### ADS-LD Command file 'ES_FREERTOS.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
